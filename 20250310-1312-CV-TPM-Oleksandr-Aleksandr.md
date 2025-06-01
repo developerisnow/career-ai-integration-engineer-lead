@@ -1,0 +1,21 @@
+- just walk and talk with myself [[20250403-0353-audio-walk-session]], [[ARMTEK-README]], [[20250403-1204-AI-sales-Assistant-NRAR-car-korea__by-Aleksei-Kaskov]]
+
+# Related docs
+- In 2024Q3,Q4 I watched and do exercises by course "How to find IT Job", this is my Exercises outputs
+	- [[P01.Hero-map__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
+	- [[P02.Svetofor__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
+	- [[P03.Plan-A-B-G__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
+	- [[P04.1.roles-naming-titles__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
+	- [[P04.2.Vacancies-research__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
+	- [[P05.Career-Shelf-Vacancies__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
+	- [[P06.Career-Project-Plan__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
+	- Notes timeline about job seeking
+		- [[timeline-Career-Path-Oleksandr-Aleksandruk-2024-Q3__Career-Oleksandr-Aleksandruk-2024-Q3]]
+		- [[timeline-logs-notes-Hello-my-Job-course__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
+- Other notes about my experience and etc
+	- [[2024-10-26-DevRel-developer-relations-head__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
+	- [[2024-11-23-brainstorm-what-choose-TPM-vs-DevRel-vs-DevAdv__Career-Oleksandr-Aleksandruk-2024-Q3]]
+	- [[2024-11-24-research-DevRel-people-linkedin-profiles__Career-Oleksandr-Aleksandruk-2024-Q3]]
+	- [[2024-11-25-Ann-Nft-breakfasts-chat__Career-Oleksandr-Aleksandruk-2024-Q3]]
+- Research [[20250310-1242-job-at-France-Tolouse-TPM-DevRel-Engineer]]
+	- [[20250308-1345-deep-research-vacancies-in-Tolouse-IT-Companies]]
