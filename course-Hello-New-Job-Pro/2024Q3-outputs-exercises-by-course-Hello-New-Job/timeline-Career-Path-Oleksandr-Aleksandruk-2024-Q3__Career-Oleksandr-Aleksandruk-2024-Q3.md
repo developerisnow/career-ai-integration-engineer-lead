@@ -9,14 +9,14 @@
   - [ ] review `2.Career-Planning_2.2._Career-Shelf_Konspekt___DZ`
 
 ### 2024-11-22 Fr
-- [x] Write section history: timeline, main sub-projects, reflexion
+- ✅Write section history: timeline, main sub-projects, reflexion
 - Слушай ну я достаточно сильно мечусь и недоделываю
 - review linkedin
   - answer to 
 
 # 2024-11-23 Sa
-- [x] Win-server with Adspower and authorized LinkedIns: Profiles Win 001, 002, 003, 004, 005
-- [x] Try manual server with LinkedIn
+- ✅Win-server with Adspower and authorized LinkedIns: Profiles Win 001, 002, 003, 004, 005
+- ✅Try manual server with LinkedIn
   - [ ] write Keywords, Locations
   - [ ] Tried with Toulouse, Netherlands
 
@@ -41,7 +41,7 @@ United States
 Australia and New Zealand
 ```
 
-- [x] Make `vacancies-short-pre-analysis.csv` with Sonnet 3.5, потом o1-mini как будто лучше потому что задача простая, а он менее ленивый
+- ✅Make `vacancies-short-pre-analysis.csv` with Sonnet 3.5, потом o1-mini как будто лучше потому что задача простая, а он менее ленивый
 - [ ] выводы сделать
   - вакансий много и прямо утомляешься все это читать и перебирать - и смысл? 
     - то ли у меня синдром самозванца или я не подхожу по скиллам у меня ощущения

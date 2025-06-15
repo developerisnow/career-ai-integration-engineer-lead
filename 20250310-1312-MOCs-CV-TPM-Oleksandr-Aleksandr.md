@@ -2,13 +2,13 @@
 
 # Related docs
 - In 2024Q3,Q4 I watched and do exercises by course "How to find IT Job", this is my Exercises outputs
-	- [[P01.Hero-map__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
-	- [[P02.Svetofor__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
-	- [[P03.Plan-A-B-G__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
-	- [[P04.1.roles-naming-titles__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
-	- [[P04.2.Vacancies-research__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
-	- [[P05.Career-Shelf-Vacancies__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
-	- [[P06.Career-Project-Plan__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
+	- [[20241015-P01.Hero-map__course-HNJP]]
+	- [[20241015-P02.Svetofor__course-HNJP]]
+	- [[20241015-P03.Plan-A-B-G__course-HNJP]]
+	- [[20241015-P04.1.roles-naming-titles__course-HNJP]]
+	- [[20241015-P04.2.Vacancies-research__course-HNJP]]
+	- [[20241015-P05.Career-Shelf-Vacancies__course-HNJP]]
+	- [[20241015-P06.Career-Project-Plan__course-HNJP]]
 	- Notes timeline about job seeking
 		- [[timeline-Career-Path-Oleksandr-Aleksandruk-2024-Q3__Career-Oleksandr-Aleksandruk-2024-Q3]]
 		- [[timeline-logs-notes-Hello-my-Job-course__course-hello-new-job-kak-i-gde-naiti-rabotu-v-2024-godu-2-0]]
