@@ -24,12 +24,12 @@
 - 262kb [[20250601-0945-brainstorm-my-ai-integration-engineering-manager-future-STAR-cases]]
 - 102kb c2p_20250601-plan.txt
 ````
-- ✅[[20250601-linkedin-aleksandruk]] ✅ 2025-06-02
-- ✅https://alex-ai-integrations-ru.useai.pro/ [[20250601-one-pager-aleksandruk]] ✅ 2025-06-02
+- ✅[[__SecondBrain/Projects_PKM/sys_Career-Oleksandr-Aleksandruk/position-alex-ai-solution-architect-and-integration-engineering-manager/20250601-gemini-ouputs-analyse-1M-tokens-context/20250601-linkedin-aleksandruk]] ✅ 2025-06-02
+- ✅https://alex-ai-integrations-ru.useai.pro/ [[__SecondBrain/Projects_PKM/sys_Career-Oleksandr-Aleksandruk/position-alex-ai-solution-architect-and-integration-engineering-manager/20250601-gemini-ouputs-analyse-1M-tokens-context/20250601-one-pager-aleksandruk]] ✅ 2025-06-02
 - ✅https://legacy-ai-ru.useai.pro/ ✅ 2025-06-02
 - ✅en landing ✅ 2025-06-02
 - ✅en landing 2 ✅ 2025-06-02
-- ✅[[20250502-1457-complete-personal-rebranding-strategy]] ✅ 2025-06-02
+- ✅[[__SecondBrain/Projects_PKM/sys_Career-Oleksandr-Aleksandruk/position-alex-ai-solution-architect-and-integration-engineering-manager/20250502-1457-complete-personal-rebranding-strategy]] ✅ 2025-06-02
 [[vacency-Senior Lead AI Engineer - Capital One]]
 [[19-summary-lesson-HNJ]]
 

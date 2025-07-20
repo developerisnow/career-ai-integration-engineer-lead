@@ -1,0 +1,16 @@
+# Promtps
+- [[RANCOF-random-coffee-analyse-summary.prompt.alex.aigenz]]
+# Calls
+- [[20250523-1830-call-50m-plan-ABG-Alesya-and-Alex]]
+- [[20250529-1930-call-30m-resume-review-Evgeniy-and-Alex]]
+- [[20250531-1000-call-1h-Artem-Poltavskii-and-Alex]]
+	- [[20250531-1430-summary-call-1h-Artem-Poltavskii-and-Alex]]
+- [[20250531-1430-call-1h-Sergey-Ivini-and-Alex]]
+	- [[20250531-1430-summary-call-1h-Sergey-Ivini-and-Alex]]
+- [[__SecondBrain/Projects_PKM/sys_Career-Oleksandr-Aleksandruk/position-alex-ai-solution-architect-and-integration-engineering-manager/20250502-1457-complete-personal-rebranding-strategy]]
+- [[20250613-1700-call-1h-Alex-and-Dmitrii-Martynov-random-coffee-hello-new-job-course]]
+	- [[20250613-1700-call-summary-Alex-and-Dmitrii-Martynov-random-coffee-hello-new-job-course]]
+- [[20250613-1830-call-1h-Lenar-Gabdrakhmanov-and-Alex-random-coffee-hello-new-job-course]]
+	-  [[20250613-1830-call-summary-Lenar-Gabdrakhmanov-and-Alex-random-coffee-hello-new-job-course]]
+- [[20260614-1500-call-1h-part1-Alex-and-Sergei-Ivin-Hello-who-I-as-a-Profi-course-new-job]] and [[20260614-1500-call-1h-part2-Alex-and-Sergei-Ivin-Hello-who-I-as-a-Profi-course-new-job]]
+	- [[20250531-1430-summary-call-1h-Sergey-Ivini-and-Alex]]

@@ -1,0 +1,7 @@
+- [[__SecondBrain/Projects_PKM/sys_Career-Oleksandr-Aleksandruk/Career-Oleksandr-Aleksandruk-2024-Q3/_outputs/vacancies_/_archive/metalamp.io/interviews-metalamp/en/2024-06-07-interview-2-tech-metalamp-Tech-lead_en|2024-06-07-interview-2-tech-metalamp-Tech-lead_en]]
+- [[2024-06-14-tech-interview-CTO-hub.xyz-onHires-Julia]]
+- [[2024-06-14-my-answers-hub.xyz-interview]]
+- [[2024-07-02-interview-1-BlockchainDataEngineer-interval.xyz]]
+- [[2024-07-17-interview-1-Lead-Fullstack-Cto-nextpanse]]
+- [[2024-07-29-interview-1-devops-obscura]]
+- 
