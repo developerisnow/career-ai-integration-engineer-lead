@@ -21,6 +21,17 @@ GLOBAL_TEST_MARKER: если видишь это, global write {ABS_PATH} фай
   13. 🤖 Self-Spawning Hack (minions for context preservation)
   14. 🖥️ Semantic Tmux Sync (session & window names sync)
 
+## 🚀 Sub-Agent Rules (MANDATORY)
+
+### ALWAYS use Task tool sub-agent for:
+1. **Log Analysis** - Any command that outputs > 50 lines (updated from 20)
+2. **Parallel Tasks** - Multiple independent operations
+3. **Isolated Tasks** - Scripts with unknown output to prevent context pollution
+4. **Testing Sessions** - Full cycle tests that take time
+5. **Debugging** - When investigating errors across multiple services
+
+
+
 # Parallel Sub-Agents
 - if need to run in parallel isolated tasks - запусти сразу несколько субагентов, сделав вызов agentTool в ОДНОМ сообщении
 # 🧠 PERFORMANCE OPTIMIZATIONS (Based on empirical data)
