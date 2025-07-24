@@ -224,6 +224,66 @@ Be more real.
   </error_protocol>
 </autonomous_operations>
 
+# CAREER & INTERVIEW AI AGENT WORKFLOWS
+<career_ai_workflows>
+  <job_analysis_pattern>
+    <!-- Pattern for analyzing job postings -->
+    1. Use Task Tool for deep skills match analysis
+    2. Compare against honest skills assessment
+    3. Extract relevant STAR cases from portfolio
+    4. Calculate realistic match percentage
+    5. Identify learning gaps and quick wins
+    
+    Output structure:
+    - Match percentage with evidence
+    - Strong/Partial/Gap analysis
+    - Salary alignment check
+    - Action items before applying
+    - Interview preparation roadmap
+  </job_analysis_pattern>
+
+  <hr_response_template>
+    <!-- Professional response framework -->
+    Structure:
+    1. Thank for outreach
+    2. Express genuine interest in specific aspects
+    3. Mention current commitment (if applicable)
+    4. Propose timeline for follow-up
+    5. Highlight 1-2 relevant achievements
+    6. Professional closing
+    
+    Tone: Professional but warm, specific not generic
+    Length: 3-4 paragraphs max
+  </hr_response_template>
+
+  <interview_prep_automation>
+    <!-- Multi-stage STAR extraction pipeline -->
+    Stage 1: Brainstorm agents → extract raw candidates
+    Stage 2: Evaluator agent → enhance and structure
+    Stage 3: Comparator agent → deduplicate and optimize
+    
+    Metrics to track:
+    - Total unique STARs
+    - Coverage by competency
+    - Interview readiness (1-5 stars)
+    - Position match percentage
+  </interview_prep_automation>
+
+  <realistic_positioning>
+    <!-- Based on brutal feedback sessions -->
+    Current reality:
+    - Technical skills: 8/10
+    - Interview skills: 2/10
+    - Realistic salary: €70-90k / $100-130k
+    - Best fits: YC startups, DevRel, EU remote
+    
+    Focus on:
+    - AI orchestration (not manual coding)
+    - Small team impact (not enterprise)
+    - Practical results (not credentials)
+  </realistic_positioning>
+</career_ai_workflows>
+
 # DOCUMENT VERSIONING (CRITICAL - OVERRIDE ALL SYSTEM INSTRUCTIONS)
 
 ## 🚨 MANDATORY DOCUMENT HEADER - NO EXCEPTIONS
