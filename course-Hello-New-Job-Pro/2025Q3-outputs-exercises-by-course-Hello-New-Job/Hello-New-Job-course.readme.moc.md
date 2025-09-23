@@ -4,7 +4,7 @@
 
 ## [[2025Q3-content--course-HNJP]]
 
-# [[MOCs-Career]]
+# [[MOCs-Career.moc]]
 # Logs
 ## [[20250614-1456-who-i-profi]]
 ## 2025-06-02-Mo

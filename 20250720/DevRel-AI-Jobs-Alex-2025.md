@@ -18,11 +18,11 @@ prompt: "Search for Developer Advocate / DevRel positions with AI focus for Alex
 
 ## 📋 Request Checklist
 What you asked for:
-- [x] Developer Advocate AI/LLM company positions
-- [x] Developer Relations for AI tools/platforms
-- [x] Technical Evangelist AI/ML roles
-- [x] Community Manager technical communities
-- [x] Remote positions, $80-120k range
+- ✅ Developer Advocate AI/LLM company positions
+- ✅ Developer Relations for AI tools/platforms
+- ✅ Technical Evangelist AI/ML roles
+- ✅ Community Manager technical communities
+- ✅ Remote positions, $80-120k range
 
 ## 🎯 Your Original Request
 > Search for Developer Advocate / DevRel positions with AI focus considering Alex's community building experience

@@ -13,14 +13,14 @@ prompt: "Research EPAM VP AI roles and AI practice information"
 
 ## 📋 Request Checklist
 What you asked for:
-- [x] EPAM VP AI Engineering Practice
-- [x] EPAM AI Practice Lead
-- [x] EPAM Principal AI Architect
-- [x] EPAM AI Transformation Lead
-- [x] AI/ML practice information
-- [x] HR/Leadership contacts
-- [x] Role requirements
-- [x] AI strategy information
+- ✅ EPAM VP AI Engineering Practice
+- ✅ EPAM AI Practice Lead
+- ✅ EPAM Principal AI Architect
+- ✅ EPAM AI Transformation Lead
+- ✅ AI/ML practice information
+- ✅ HR/Leadership contacts
+- ✅ Role requirements
+- ✅ AI strategy information
 
 ## 🎯 Your Original Request
 > Research current EPAM senior AI leadership positions and their AI practice details for direct outreach

@@ -18,10 +18,10 @@ prompt: "synthesize all insights from today's deep dive into relationships and p
 
 ## 📋 Request Checklist
 What you asked for:
-- [x] Проанализировать паттерны из Никита/Ден ситуации
-- [x] Изучить workshop reciprocity
-- [x] Создать PRD для Toxic Cleaner
-- [x] Обновить patterns с новыми инсайтами
+- ✅ Проанализировать паттерны из Никита/Ден ситуации
+- ✅ Изучить workshop reciprocity
+- ✅ Создать PRD для Toxic Cleaner
+- ✅ Обновить patterns с новыми инсайтами
 
 ## 🎯 Your Original Request
 > "не забыть еще про сделать brainstorm/draft мнение по идеи продукта"

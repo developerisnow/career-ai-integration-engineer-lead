@@ -93,9 +93,9 @@ cat > "$DAILY_NOTE" << EOF
 $UNFINISHED
 
 ## 🎯 Focus for Today
-- [ ] Review Koryun's deployment
-- [ ] Career course exercise
-- [ ] Process pending Telegrams
+- Review Koryun's deployment
+- Career course exercise
+- Process pending Telegrams
 
 ## ⚡ Energy Prediction
 Based on sleep: $(check_garmin_sleep)
@@ -240,26 +240,26 @@ digital-twin-core/
 ## Success Checklist
 
 ### Today ✓
-- [ ] Context extraction script created
-- [ ] tg2prompt patched for new contacts
-- [ ] GitHub Project initialized
+- Context extraction script created
+- tg2prompt patched for new contacts
+- GitHub Project initialized
 
 ### Tomorrow ✓
-- [ ] Morning briefing automated
-- [ ] First entities extracted
-- [ ] Scripts organized
+- Morning briefing automated
+- First entities extracted
+- Scripts organized
 
 ### This Week ✓
-- [ ] All scripts in atomic repos
-- [ ] Basic entity extraction working
-- [ ] Toggl automation prototype
-- [ ] First agent deployed
+- All scripts in atomic repos
+- Basic entity extraction working
+- Toggl automation prototype
+- First agent deployed
 
 ### This Month ✓
-- [ ] Full context pipeline operational
-- [ ] STAR cases building automatically
-- [ ] Pattern detection preventing crashes
-- [ ] Digital twin learning your patterns
+- Full context pipeline operational
+- STAR cases building automatically
+- Pattern detection preventing crashes
+- Digital twin learning your patterns
 
 Remember: Every step should provide immediate value. No building for future maybe-needs.
 

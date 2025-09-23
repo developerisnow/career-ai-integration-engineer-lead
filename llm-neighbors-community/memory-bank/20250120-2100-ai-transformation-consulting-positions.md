@@ -18,12 +18,12 @@ prompt: "Find AI transformation and legacy modernization consulting positions at
 
 ## 📋 Request Checklist
 What you asked for:
-- [x] Thoughtworks Principal AI Modernization positions
-- [x] Thoughtworks AI Legacy transformation consultant roles
-- [x] BCG Gamma AI consultant positions
-- [x] McKinsey QuantumBlack senior roles
-- [x] Accenture AI transformation lead positions
-- [x] Capgemini AI architecture roles
+- ✅ Thoughtworks Principal AI Modernization positions
+- ✅ Thoughtworks AI Legacy transformation consultant roles
+- ✅ BCG Gamma AI consultant positions
+- ✅ McKinsey QuantumBlack senior roles
+- ✅ Accenture AI transformation lead positions
+- ✅ Capgemini AI architecture roles
 
 ## 🎯 Your Original Request
 > Search for senior consulting positions focused on AI transformation and legacy modernization at major consulting firms

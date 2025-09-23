@@ -18,10 +18,10 @@ prompt: "create concrete actionable roadmap based on all insights"
 
 ## 📋 Request Checklist
 What you asked for:
-- [x] Не просто болтовня а действия
-- [x] Использовать то что уже есть (80% built)
-- [x] External anchors и commitment tracking
-- [x] Stop building, start connecting
+- ✅ Не просто болтовня а действия
+- ✅ Использовать то что уже есть (80% built)
+- ✅ External anchors и commitment tracking
+- ✅ Stop building, start connecting
 
 ## 🎯 Your Original Request
 > "Actions 1-4 буду делать... каждое обещание и external anchors важно да"
@@ -78,16 +78,16 @@ fi
 ## 📅 ЭТА НЕДЕЛЯ: Foundation (7 дней)
 
 ### Day 1-2: Relationship Audit
-- [ ] Список 20 ключевых людей
-- [ ] Energy Exchange Rate для каждого  
-- [ ] Отметить red flags
-- [ ] Решить: keep / limit / exit
+- Список 20 ключевых людей
+- Energy Exchange Rate для каждого  
+- Отметить red flags
+- Решить: keep / limit / exit
 
 ### Day 3-4: Automate What Works
-- [ ] Cron job для Telegram extraction
-- [ ] Toggl API + context detection
-- [ ] Morning briefing script
-- [ ] End of day synthesis
+- Cron job для Telegram extraction
+- Toggl API + context detection
+- Morning briefing script
+- End of day synthesis
 
 ### Day 5-7: Pattern Detection v1
 ```python
@@ -168,22 +168,22 @@ Git commits → Context Save → Project Switch Protocol
 ## 📊 Success Metrics
 
 ### Daily
-- [ ] All commitments in GitHub
-- [ ] 3 external anchors hit
-- [ ] 1 voice dump minimum
-- [ ] Energy logged
+- All commitments in GitHub
+- 3 external anchors hit
+- 1 voice dump minimum
+- Energy logged
 
 ### Weekly  
-- [ ] Commitment completion >80%
-- [ ] No energy crashes
-- [ ] Patterns documented
-- [ ] Toxic interactions <20%
+- Commitment completion >80%
+- No energy crashes
+- Patterns documented
+- Toxic interactions <20%
 
 ### Monthly
-- [ ] Systems running without you
-- [ ] Clear relationship boundaries
-- [ ] More creating than managing
-- [ ] RSD episodes -50%
+- Systems running without you
+- Clear relationship boundaries
+- More creating than managing
+- RSD episodes -50%
 
 ---
 

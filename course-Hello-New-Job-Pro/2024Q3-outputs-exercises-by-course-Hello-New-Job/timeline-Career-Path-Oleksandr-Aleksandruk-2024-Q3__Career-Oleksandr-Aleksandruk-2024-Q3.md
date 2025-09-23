@@ -4,9 +4,9 @@
 ## Dailys
 
 ### 2024-11-24 Su
-- [ ] Career Shelf for DevRel, Advocate  positions.
-  - [ ] review `2.Career-Planning_1.2._Vacancies-research-Konspekt__DZ`
-  - [ ] review `2.Career-Planning_2.2._Career-Shelf_Konspekt___DZ`
+- Career Shelf for DevRel, Advocate  positions.
+  - review `2.Career-Planning_1.2._Vacancies-research-Konspekt__DZ`
+  - review `2.Career-Planning_2.2._Career-Shelf_Konspekt___DZ`
 
 ### 2024-11-22 Fr
 - ✅Write section history: timeline, main sub-projects, reflexion
@@ -17,8 +17,8 @@
 # 2024-11-23 Sa
 - ✅Win-server with Adspower and authorized LinkedIns: Profiles Win 001, 002, 003, 004, 005
 - ✅Try manual server with LinkedIn
-  - [ ] write Keywords, Locations
-  - [ ] Tried with Toulouse, Netherlands
+  - write Keywords, Locations
+  - Tried with Toulouse, Netherlands
 
 Keywords: 
 ```
@@ -42,7 +42,7 @@ Australia and New Zealand
 ```
 
 - ✅Make `vacancies-short-pre-analysis.csv` with Sonnet 3.5, потом o1-mini как будто лучше потому что задача простая, а он менее ленивый
-- [ ] выводы сделать
+- выводы сделать
   - вакансий много и прямо утомляешься все это читать и перебирать - и смысл? 
     - то ли у меня синдром самозванца или я не подхожу по скиллам у меня ощущения
       - я думаю что нужно больше ачивок - пруфов и демок что я могу и тп
@@ -50,12 +50,12 @@ Australia and New Zealand
       - делать демки и мвп и прочее
   - надо курс проходить дальше где по сути и формируем CV, portfolio и тп
   - карьерный шкаф освежить и сделать
-- [ ] Career Shelf сделать. Там получается нужно понять мне на 1-2-3-4 профессии делать?
-  - [ ] TPM
-  - [ ] DevRel & Advocate это разное? или одно и то же?
+- Career Shelf сделать. Там получается нужно понять мне на 1-2-3-4 профессии делать?
+  - TPM
+  - DevRel & Advocate это разное? или одно и то же?
     - нет, o1-mini объясни это сфокусировавшись на том как я его понял в одном предложении: "Dev Advocate — это одна из ролей внутри области DevRel"
     - больше мне понравился ответ Sonnet 3.5: "DevRel - build/manage dev community strategy; Advocate - promoting products/services to dev community and support it. Starts from Advocate could be easier.
-- [ ]  Questions
+- Questions
 ```markdown
 
 ```

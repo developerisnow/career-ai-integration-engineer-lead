@@ -293,22 +293,22 @@ class UsageTracker:
 ## Success Metrics
 
 ### Week 1-2 Targets
-- [ ] Index 100% of existing PKM content
-- [ ] Process voice notes within 5 minutes
-- [ ] Generate first morning briefing
-- [ ] Extract 10+ action items automatically
+- Index 100% of existing PKM content
+- Process voice notes within 5 minutes
+- Generate first morning briefing
+- Extract 10+ action items automatically
 
 ### Month 1 Targets
-- [ ] 50% reduction in "where did I put that"
-- [ ] 80% task completion rate (vs current ~40%)
-- [ ] 5+ patterns detected and intervened
-- [ ] Zero manual PKM maintenance tasks
+- 50% reduction in "where did I put that"
+- 80% task completion rate (vs current ~40%)
+- 5+ patterns detected and intervened
+- Zero manual PKM maintenance tasks
 
 ### Month 3 Targets
-- [ ] Full autonomous operation
-- [ ] Proactive insights daily
-- [ ] Cross-project synthesis working
-- [ ] Team collaboration features active
+- Full autonomous operation
+- Proactive insights daily
+- Cross-project synthesis working
+- Team collaboration features active
 
 ## Next Concrete Steps
 

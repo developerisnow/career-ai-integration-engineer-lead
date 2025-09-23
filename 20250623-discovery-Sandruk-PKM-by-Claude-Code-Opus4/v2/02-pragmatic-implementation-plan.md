@@ -176,24 +176,24 @@ class STARCaseBuilder:
 ## Success Metrics
 
 ### Week 1
-- [ ] All LLM contexts extracted daily
-- [ ] tg2prompt handles new contacts
-- [ ] GitHub Projects receiving auto-issues
+- All LLM contexts extracted daily
+- tg2prompt handles new contacts
+- GitHub Projects receiving auto-issues
 
 ### Week 2  
-- [ ] Toggl tracks automatically
-- [ ] Voice extracts entities
-- [ ] Daily summaries generated
+- Toggl tracks automatically
+- Voice extracts entities
+- Daily summaries generated
 
 ### Week 3
-- [ ] All cron jobs running
-- [ ] Docker agents deployed
-- [ ] Pattern detection active
+- All cron jobs running
+- Docker agents deployed
+- Pattern detection active
 
 ### Week 4
-- [ ] STAR cases building automatically
-- [ ] Career profile self-updating
-- [ ] Interview prep materials ready
+- STAR cases building automatically
+- Career profile self-updating
+- Interview prep materials ready
 
 ## Remember: YAGNI + KISS
 

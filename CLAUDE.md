@@ -318,9 +318,9 @@ prompt: "brief description of what user requested"
 ```markdown
 ## 📋 Request Checklist
 What you asked for:
-- [x] Item 1 from request
-- [ ] Item 2 from request  
-- [x] Item 3 (completed)
+- ✅ Item 1 from request
+- Item 2 from request  
+- ✅ Item 3 (completed)
 
 ## 🎯 Your Original Request
 > {Brief 1-2 line summary of what user wanted}
